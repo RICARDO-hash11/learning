@@ -1,4 +1,4 @@
-# learning
+# repositorio 1 en el curso de git
 learning
 
 ## descripcion
